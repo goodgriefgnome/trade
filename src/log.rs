@@ -1,1 +1,1 @@
-//! Append-only session log: shared envelope, source-specific raw payloads.
+//! SQLite log of every input and output crossing the IO boundary. See docs/log.md.

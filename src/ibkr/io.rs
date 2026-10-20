@@ -1,1 +1,1 @@
-//! Live connection to the Client Portal Gateway (http, websocket, keepalive).
+//! Live connection to the Client Portal Gateway: moves bytes, makes no decisions.
